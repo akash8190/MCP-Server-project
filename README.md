@@ -38,18 +38,6 @@ This repository is ideal for:
 
 ---
 
-MCP-Server-project/
-│
-├── main.py # Entry point for the server
-├── mathserver.py # Server logic for math operations
-├── weather.py # Logic to fetch weather data (likely via API)
-├── client.py # Client script to send requests to the server
-├── requirements.txt # Dependencies
-├── pyproject.toml # Project metadata / dependencies
-├── uv.lock # Dependency lock (if using poetry / other tool)
-├── README.md # → this file
-└── LICENSE # License file (GPL-3.0)
-
 
 
 ---
@@ -82,4 +70,5 @@ python client.py
 
 
 ## 📂 Project Structure
+
 
