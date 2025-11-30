@@ -37,19 +37,7 @@ This repository is ideal for:
 - Uses standard Python tooling — no heavy frameworks required  
 
 ---
-MCP-Server-project/
-│
-├── main.py              # Entry point for the server
-├── mathserver.py        # Server logic for math operations
-├── weather.py           # Logic to fetch weather data (weather API)
-├── client.py            # Client script to send requests to the server
-│
-├── requirements.txt     # Dependencies
-├── pyproject.toml       # Project metadata / dependencies
-├── uv.lock              # Dependency lock file
-│
-├── README.md            # Project documentation
-└── LICENSE              # License (GPL-3.0)
+
 
 
 
@@ -83,6 +71,23 @@ python client.py
 
 
 ## 📂 Project Structure
+
+
+MCP-Server-project/
+│
+├── main.py              # Entry point for the server
+├── mathserver.py        # Server logic for math operations
+├── weather.py           # Logic to fetch weather data (weather API)
+├── client.py            # Client script to send requests to the server
+│
+├── requirements.txt     # Dependencies
+├── pyproject.toml       # Project metadata / dependencies
+├── uv.lock              # Dependency lock file
+│
+├── README.md            # Project documentation
+└── LICENSE              # License (GPL-3.0)
+
+
 
 
 
